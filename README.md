@@ -1,8 +1,3 @@
-US_Military_Intervention_History
-================
-Ezra Hsieh
-2023-12-10
-
 # US Military Interventions over History
 
 ## MATH 167R Final Project
